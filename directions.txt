@@ -1,0 +1,6 @@
+Exercise 8: Print the following pattern (see below) or in other words a right triangle pattern using 1-5 numbers.
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5
